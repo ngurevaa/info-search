@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.3
+pymorphy3==1.0.0
+pymorphy3-dicts-ru==2.4.417127.4570142359
+nltk==3.8.1
